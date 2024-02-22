@@ -2,7 +2,7 @@
 Repositorio para los cursos que haga de Udemy
 
 # Estación climatologica.
-![Imagen del proyecto](C:\Users\Usuario\repositorios\Cursos-Udemy\cursos.jpg)
+![Imagen del proyecto](https://github.com/TomRG20/Cursos-Udemy/blob/main/cursos.jpg)
 
 ## Descripción 📑
 
@@ -20,8 +20,8 @@ En este proyecto aprendi temas de ...
 ## Vista previa del proyecto
 Si quieres hechar un vistazo al proyecto, te recomiendo:
 
-![Captura del proyecto](https://github.com/TomRG20/Estacion-Climatologica/blob/master/estacion%20climatica2.png)
-![Captura del proyecto](https://github.com/TomRG20/Estacion-Climatologica/blob/master/estacion%20climatica3.png)
+![Captura del proyecto](https://github.com/TomRG20/Cursos-Udemy/blob/main/cursos.jpg)
+![Captura del proyecto](https://github.com/TomRG20/Cursos-Udemy/blob/main/cursos.jpg)
 
 ## Autor ✒️
 **Tomás Rodríguez Garrido**
