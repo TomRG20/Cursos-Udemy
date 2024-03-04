@@ -1,7 +1,7 @@
 # Cursos-Udemy
 Repositorio para los cursos que haga de Udemy
 
-# Estación climatologica.
+# Cursos de Udemy.
 ![Imagen del proyecto](https://github.com/TomRG20/Cursos-Udemy/blob/main/cursos.jpg)
 
 ## Descripción 📑
